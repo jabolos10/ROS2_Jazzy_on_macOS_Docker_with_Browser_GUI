@@ -1,4 +1,4 @@
-# 🐢 ROS 2 Jazzy on macOS — Docker + noVNC
+# 🐢 ROS 2 Jazzy on macOS — Docker with Browser GUI
 
 Run a full ROS 2 Jazzy setup with GUI tools (turtlesim, rqt_graph) on a MacBook with Apple Silicon. **No XQuartz, no VM, no Linux install.** The Linux desktop runs inside a Docker container and is streamed to your browser.
 
